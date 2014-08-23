@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Stephanie Maxwell - Entrepreneur, Idea Generator, Connector</title>
+    <!-- this code between <header> ... </header> -->
+<link rel="stylesheet" href="flat-ui/bootstrap/css/bootstrap.css">
+<link rel="stylesheet" href="flat-ui/css/flat-ui.css">
+<!-- Using only with Flat-UI (free)-->
+<link rel="stylesheet" href="common-files/css/icon-font.css">
+<!-- end -->
+<link rel="stylesheet" href="common-files/css/animations.css">
+<!-- this code directly before </body> -->
+<script src="common-files/js/jquery-1.10.2.min.js"></script>
+<script src="flat-ui/js/bootstrap.min.js"></script>
+<script src="common-files/js/jquery.scrollTo-1.4.3.1-min.js"></script>
+<script src="common-files/js/modernizr.custom.js"></script>
+<script src="common-files/js/page-transitions.js"></script>
+<script src="common-files/js/easing.min.js"></script>
+<script src="common-files/js/jquery.svg.js"></script>
+<script src="common-files/js/jquery.svganim.js"></script>
+<script src="common-files/js/jquery.parallax.min.js"></script>
+<script src="common-files/js/startup-kit.js"></script>
+
+<!-- header -->
+<link rel="stylesheet" href="ui-kit/ui-kit-header/css/style.css">
+<!-- content -->
+<link rel="stylesheet" href="ui-kit/ui-kit-content/css/style.css">
+<!-- blog -->
+<link rel="stylesheet" href="ui-kit/ui-kit-blog/css/style.css">
+<!-- contacts -->
+<link rel="stylesheet" href="ui-kit/ui-kit-contacts/css/style.css">
+<!-- crew -->
+<link rel="stylesheet" href="ui-kit/ui-kit-crew/css/style.css">
+<!-- price -->
+<link rel="stylesheet" href="ui-kit/ui-kit-price/css/style.css">
+<!-- projects -->
+<link rel="stylesheet" href="ui-kit/ui-kit-projects/css/style.css">
+<!-- footer -->
+<link rel="stylesheet" href="ui-kit/ui-kit-footer/css/style.css">   
+
+<style>
+  .background {
+    background-image:url("common-files/img/chloesketch-detail.jpeg");
+    opacity: 80;
+}
+</style>
+<header class="header-10">
+    <div class="container">
+    	<div id="header">
+        <div class="row">
+            <div class="navbar col-sm-12" role="navigation">
+                <div class="collapse navbar-collapse pull-right">
+                    <ul class="nav pull-left">
+                        <li><a href="http://steffiemaxwell.com/">Home</a></li>
+                        <li class="active"><a href="#about">About</a></li>
+                        <li><a href="http://steffiemaxwell.com/portfolio">Portfolio</a></li>
+                        <li><a href="#contact">Contact</a></li>
+                        <li><a href="http://steffiemaxwell.tumblr.com">Blog</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="header-background"></div>
+</header>
+
+<!-- About Me Letter -->
+
+  <section class="blog-3">
+    <div id="about">
+    <div class="container">
+        <div class="title">
+            <h3><b>About Me</b></h3>
+        </div>
+   </div>
+        <div class="row">
+            <div class="col-sm-8 col-sm-offset-2 ui-accordion-header">
+
+                <p>Born and raised in Denver, CO. I began my early career working as a VIP hostess at a high volume nightclub while enrolled at CU Denver in International Business and Business Marketing. I quickly worked my way up the latter becoming the Marketing Director for Suite Two Hundred. I did that for 2 years before I was offered a promotion to open a new restaurant and nightclub, Chloe.</p>
+                <p>Opening Chloe was a wonderful expirience, and albeit a successful one! It was also during this expirience that I learned how to launch a business from start to finish and my entrepreneurial itch was scratched. I carried out my role at Chloe for 6 more months before launching my own boutique event staffing agency called, Serve the following year after completing a 12-week intensive Entrepreneurs Course.</p>
+                <p>talk about serve and tbar and Sirvo</p>
+                <p>Opening Chloe was a wonderful expirience, and albeit a successful one! It was also during this expirience that I learned how to launch a business from start to finish and my entrepreneurial itch was scratched. I carried out my role at Chloe for 6 more months before launching my own boutique event staffing agency called, Serve the following year.</p>
+            </div>
+          </div>
+    </div>
+  </section>
+
+<!--Quotes Slider-->
+
+  <section class="content-18">
+    <div class="container">
+        <div id="c-18_myCarousel" class="carousel slide" data-interval="600000">
+            <div class="controls">
+                <a class="carousel-control left disabled" href="#c-18_myCarousel" data-slide="prev"> </a>
+                <a class="carousel-control right" href="#c-18_myCarousel" data-slide="next"> </a>
+            </div>
+            <div class="carousel-inner">
+                <div class="item active">
+                    <div class="quote-text">
+                        Stephanie is one of the brightest thinkers and problem solvers I know. She posesses a "born-digital" understanding of how humans navigate the web and she brings these optics, as well as her proven business and marketing acumen to the equation.
+                    </div>
+                    <div class="quote-author"><h5>Rob Schuham, Business Advisor</h5><br> 
+                      <h6>(...this guy also knows Bill Gates and Al Gore)</h6>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="quote-text">
+                        Stephanie is one of those rare people who naturally serve as an inspiring mentor for everyone on the team. My success is largely due to her pride and attention to detail which make her a dedicated, patient and goal-oriented leader.
+                    </div>
+                    <div class="quote-author">Tim Quintana</div>
+                </div>
+            </div>
+        </div>
+        </div>
+</section>
+<footer class="footer-16 ">
+	<div id="contact">
+    <div class="container">
+        <a href="http://steffiemaxwell.com"><span class="fui-home"> </span></a>
+        <nav>
+            <ul>
+                <li class="active"><a href="#">ABOUT</a></li>
+                <li><a href="http://steffiemaxwell.com/portfolio">PORTFOLIO</a></li>
+                <li class="scroll-btn"><a href="#header" class="scroll-top fui-arrow-up"> </a></li>
+                <li><a href="http://steffiemaxwell.com/contact">CONTACT</a></li>
+                <li><a href="http://steffiemaxwell.tumblr.com">BLOG</a></li>
+            </ul>
+        </nav>
+        <div class="social-btns">
+            <a href="http://twitter.com/steffiemaxwell">
+             	<div class="fui-twitter"></div>
+                <div class="fui-twitter"></div>
+            </a>
+            <a href="www.linkedin.com/in/stephaniekmaxwell/">
+                <div class="fui-linkedin"></div>
+                <div class="fui-linkedin"></div>
+                </a>
+            <a href="mailto:Stephanie@gosirvo.com">
+                <div class="fui-mail"></div>
+                <div class="fui-mail"></div>
+            </a>
+        </div>
+    </div>
+</footer>
+
+
+
+  </body>
+  </html>
